@@ -1,0 +1,62 @@
+import torch
+from PIL import Image, ImageDraw
+from transformers import AutoProcessor, AutoModelForZeroShotObjectDetection
+
+# Load model
+processor = AutoProcessor.from_pretrained("IDEA-Research/grounding-dino-tiny")
+model = AutoModelForZeroShotObjectDetection.from_pretrained(
+    "IDEA-Research/grounding-dino-tiny"
+).to("cpu")
+
+# Load image
+path = r"W:\Binghamton\Semester 2\Robot Perception\Project\Implementations\Language-Aware-Robot-Manipulation\CLEVR_img.jpg"
+image = Image.open(path).convert("RGB")
+orig_w, orig_h = image.size
+
+# Resize
+image_resized = image.resize((640, 640))
+
+prompt = "goldene sphere, gold circle"
+
+# Forward pass
+inputs = processor(images=image_resized, text=prompt, return_tensors="pt")
+outputs = model(**inputs)
+
+# ---- FIXED: reduce token dimension ----
+token_scores = outputs.logits.sigmoid()[0]      # [900, 256]
+scores = token_scores.max(dim=1).values         # [900]
+
+pred_boxes = outputs.pred_boxes[0]              # [900, 4]
+
+# Threshold
+THRESH = 0.1
+mask = scores > THRESH
+
+filtered_boxes = pred_boxes[mask]
+
+# Convert to xyxy in resized space
+final_boxes = []
+for box in filtered_boxes:
+    cx, cy, w, h = box.tolist()
+
+    x1 = (cx - w/2) * 640
+    y1 = (cy - h/2) * 640
+    x2 = (cx + w/2) * 640
+    y2 = (cy + h/2) * 640
+
+    # Scale back to original resolution
+    x1 = x1 * (orig_w / 640)
+    x2 = x2 * (orig_w / 640)
+    y1 = y1 * (orig_h / 640)
+    y2 = y2 * (orig_h / 640)
+
+    final_boxes.append((x1, y1, x2, y2))
+
+# Draw
+draw = ImageDraw.Draw(image)
+for x1, y1, x2, y2 in final_boxes:
+    draw.rectangle([x1, y1, x2, y2], outline="red", width=3)
+
+image.show()
+
+print("Number of boxes:", len(final_boxes))

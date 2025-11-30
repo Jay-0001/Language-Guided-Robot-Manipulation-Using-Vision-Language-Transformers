@@ -1,0 +1,5 @@
+config_path = "/home/jay/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py"
+weights_path = "/home/jay/GroundingDINO/weights/groundingdino_swint_ogc.pth"
+
+image_path = "/home/jay/Language Aware Manipulation/0000_grounded.png"
+output_path = "annotated_output.png"

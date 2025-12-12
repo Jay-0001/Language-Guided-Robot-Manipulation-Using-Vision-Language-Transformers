@@ -12,6 +12,7 @@ from groundingdino.models import build_model
 from groundingdino.util.utils import clean_state_dict, get_phrases_from_posmap
 import groundingdino.datasets.transforms as T
 
+from language_parser import language_module
 from grounding_stage import load_model,get_boxes,visualize
 from camera_utils import get_view_matrix, get_projection_matrix
 from manip import pick_and_place, setup_environment, spawn_scattered_static_spheres 
@@ -218,7 +219,7 @@ def draw_marker(xyz, lifetime=0):
 # MAIN PIPELINE (FIX C APPLIED)
 # ================================================================
 
-def run_pipeline(model, prompt="red sphere"):
+def run_pipeline(model):
 
     # ==========================================================
     # 1. Start & set up simulation
@@ -239,12 +240,17 @@ def run_pipeline(model, prompt="red sphere"):
         p.changeDynamics(panda, 10, lateralFriction=2.0)
 
         # Spawn sphere scene from manip.py
-        spheres = spawn_scattered_static_spheres(3)
+        spheres = spawn_scattered_static_spheres(5)
 
         # Let scene settle
         for _ in range(150):
             p.stepSimulation()
             time.sleep(1/240)
+
+    #--------------------------------------------------------------
+    #LAnguage module -- without messing with Camera positions
+    #--------------------------------------------------------------
+    prompt = language_module()
 
     # ==========================================================
     # 2. Camera configuration
@@ -350,4 +356,4 @@ if __name__ == "__main__":
     CHECKPOINT = "/home/jay/GroundingDINO/weights/groundingdino_swint_ogc.pth"
 
     model = load_model(CONFIG, CHECKPOINT)
-    xyz = run_pipeline(model, "red sphere")
+    xyz = run_pipeline(model)

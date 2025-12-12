@@ -1,0 +1,6122 @@
+[
+  {
+    "image_id": 1,
+    "file_name": "0001.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.48203125,
+          0.571875,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5984375,
+          0.61875,
+          0.028125,
+          0.025
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.32109375,
+          0.6354166666666666,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 2,
+    "file_name": "0002.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.49453125,
+          0.7145833333333333,
+          0.0328125,
+          0.0375
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.26953125,
+          0.765625,
+          0.0359375,
+          0.04375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.37421875,
+          0.6239583333333333,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 3,
+    "file_name": "0003.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.4828125,
+          0.6020833333333333,
+          0.028125,
+          0.025
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.49921875,
+          0.7020833333333333,
+          0.0328125,
+          0.0375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5765625,
+          0.7541666666666667,
+          0.034375,
+          0.041666666666666664
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 4,
+    "file_name": "0004.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5484375,
+          0.7447916666666666,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4765625,
+          0.7385416666666667,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6796875,
+          0.725,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 5,
+    "file_name": "0005.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.56171875,
+          0.7104166666666667,
+          0.0328125,
+          0.0375
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.64921875,
+          0.7739583333333333,
+          0.0359375,
+          0.04375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.59609375,
+          0.565625,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 6,
+    "file_name": "0006.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.59609375,
+          0.6395833333333333,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.428125,
+          0.6677083333333333,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4953125,
+          0.740625,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 7,
+    "file_name": "0007.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.51875,
+          0.665625,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.546875,
+          0.7166666666666667,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.59609375,
+          0.65,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 8,
+    "file_name": "0008.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.56953125,
+          0.578125,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3328125,
+          0.6760416666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.703125,
+          0.8010416666666667,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 9,
+    "file_name": "0009.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.47109375,
+          0.5802083333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5125,
+          0.7927083333333333,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6484375,
+          0.7052083333333333,
+          0.034375,
+          0.035416666666666666
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 10,
+    "file_name": "0010.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.4578125,
+          0.6666666666666666,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.33125,
+          0.7322916666666667,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.45546875,
+          0.7583333333333333,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 11,
+    "file_name": "0011.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.55703125,
+          0.6958333333333333,
+          0.0328125,
+          0.03333333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.39140625,
+          0.5739583333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5453125,
+          0.790625,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 12,
+    "file_name": "0012.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.32734375,
+          0.615625,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.56328125,
+          0.7895833333333333,
+          0.0390625,
+          0.04583333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.37421875,
+          0.803125,
+          0.0390625,
+          0.04791666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 13,
+    "file_name": "0013.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.36328125,
+          0.6479166666666667,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.653125,
+          0.6177083333333333,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.61953125,
+          0.7583333333333333,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 14,
+    "file_name": "0014.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.3796875,
+          0.6572916666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.62734375,
+          0.7645833333333333,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.55546875,
+          0.6239583333333333,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 15,
+    "file_name": "0015.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.59765625,
+          0.5645833333333333,
+          0.0265625,
+          0.020833333333333332
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.49921875,
+          0.6197916666666666,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5171875,
+          0.5875,
+          0.028125,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 16,
+    "file_name": "0016.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.4234375,
+          0.715625,
+          0.034375,
+          0.035416666666666666
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5828125,
+          0.6072916666666667,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4234375,
+          0.6552083333333333,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 17,
+    "file_name": "0017.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.41484375,
+          0.5802083333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.32421875,
+          0.7354166666666667,
+          0.0359375,
+          0.0375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.33515625,
+          0.5833333333333334,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 18,
+    "file_name": "0018.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5265625,
+          0.7760416666666666,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.615625,
+          0.7229166666666667,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4421875,
+          0.6770833333333334,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 19,
+    "file_name": "0019.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5578125,
+          0.659375,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.425,
+          0.671875,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.61953125,
+          0.6354166666666666,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 20,
+    "file_name": "0020.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.553125,
+          0.6375,
+          0.03125,
+          0.029166666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3421875,
+          0.659375,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.30234375,
+          0.6875,
+          0.0328125,
+          0.03333333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 21,
+    "file_name": "0021.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.33515625,
+          0.565625,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.365625,
+          0.5989583333333334,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6375,
+          0.7875,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5484375,
+          0.740625,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 22,
+    "file_name": "0022.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.490625,
+          0.6197916666666666,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.46328125,
+          0.7697916666666667,
+          0.0359375,
+          0.04375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.32109375,
+          0.75,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.49453125,
+          0.5885416666666666,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 23,
+    "file_name": "0023.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.29296875,
+          0.803125,
+          0.0390625,
+          0.04791666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4890625,
+          0.659375,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.346875,
+          0.746875,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.66796875,
+          0.7177083333333333,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 24,
+    "file_name": "0024.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.44140625,
+          0.578125,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.40234375,
+          0.753125,
+          0.0359375,
+          0.03958333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.31796875,
+          0.7583333333333333,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3171875,
+          0.6052083333333333,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 25,
+    "file_name": "0025.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5984375,
+          0.7697916666666667,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5546875,
+          0.7739583333333333,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3359375,
+          0.6291666666666667,
+          0.028125,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.41015625,
+          0.671875,
+          0.0328125,
+          0.03125
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 26,
+    "file_name": "0026.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.4984375,
+          0.6635416666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.30859375,
+          0.8010416666666667,
+          0.0390625,
+          0.04791666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.65859375,
+          0.7520833333333333,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.34296875,
+          0.7552083333333334,
+          0.0359375,
+          0.03958333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 27,
+    "file_name": "0027.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.57265625,
+          0.5760416666666667,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.66796875,
+          0.6989583333333333,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.38046875,
+          0.5791666666666667,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.34375,
+          0.68125,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 28,
+    "file_name": "0028.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.46484375,
+          0.625,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4140625,
+          0.809375,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.453125,
+          0.590625,
+          0.028125,
+          0.022916666666666665
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.34453125,
+          0.69375,
+          0.0328125,
+          0.03333333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 29,
+    "file_name": "0029.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.41796875,
+          0.5833333333333334,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5984375,
+          0.6416666666666667,
+          0.03125,
+          0.029166666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.54375,
+          0.590625,
+          0.028125,
+          0.022916666666666665
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.56953125,
+          0.5729166666666666,
+          0.0265625,
+          0.020833333333333332
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 30,
+    "file_name": "0030.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.425,
+          0.5895833333333333,
+          0.028125,
+          0.025
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.56484375,
+          0.6083333333333333,
+          0.0296875,
+          0.025
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.58515625,
+          0.5729166666666666,
+          0.0265625,
+          0.020833333333333332
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5796875,
+          0.7958333333333333,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 31,
+    "file_name": "0031.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.425,
+          0.7947916666666667,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.48203125,
+          0.6302083333333334,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.34765625,
+          0.6083333333333333,
+          0.0296875,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.45,
+          0.684375,
+          0.03125,
+          0.035416666666666666
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 32,
+    "file_name": "0032.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.44296875,
+          0.6854166666666667,
+          0.0328125,
+          0.03333333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.534375,
+          0.659375,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.46484375,
+          0.6125,
+          0.0296875,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6640625,
+          0.7322916666666667,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 33,
+    "file_name": "0033.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.33046875,
+          0.6177083333333333,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.528125,
+          0.571875,
+          0.025,
+          0.022916666666666665
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.321875,
+          0.725,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3703125,
+          0.5677083333333334,
+          0.025,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 34,
+    "file_name": "0034.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.59453125,
+          0.63125,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6109375,
+          0.7697916666666667,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.475,
+          0.6020833333333333,
+          0.028125,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.37109375,
+          0.5739583333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 35,
+    "file_name": "0035.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.64765625,
+          0.61875,
+          0.0296875,
+          0.025
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.471875,
+          0.7166666666666667,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.584375,
+          0.8072916666666666,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.365625,
+          0.6697916666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 36,
+    "file_name": "0036.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5390625,
+          0.5958333333333333,
+          0.028125,
+          0.025
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6265625,
+          0.6729166666666667,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.54609375,
+          0.690625,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.34453125,
+          0.63125,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 37,
+    "file_name": "0037.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.3953125,
+          0.7104166666666667,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6078125,
+          0.7270833333333333,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.58125,
+          0.6020833333333333,
+          0.028125,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.50625,
+          0.6052083333333333,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 38,
+    "file_name": "0038.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.4671875,
+          0.6447916666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.44765625,
+          0.6197916666666666,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.325,
+          0.6791666666666667,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5375,
+          0.6041666666666666,
+          0.028125,
+          0.025
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 39,
+    "file_name": "0039.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.63828125,
+          0.653125,
+          0.0296875,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.28671875,
+          0.7322916666666667,
+          0.0359375,
+          0.03958333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.634375,
+          0.5916666666666667,
+          0.028125,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.2984375,
+          0.659375,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 40,
+    "file_name": "0040.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.546875,
+          0.6114583333333333,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4390625,
+          0.734375,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.39453125,
+          0.6520833333333333,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3109375,
+          0.721875,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 41,
+    "file_name": "0041.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.465625,
+          0.615625,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5015625,
+          0.7270833333333333,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6296875,
+          0.6479166666666667,
+          0.03125,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.46484375,
+          0.5760416666666667,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.41796875,
+          0.7489583333333333,
+          0.0359375,
+          0.03958333333333333
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 42,
+    "file_name": "0042.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.56015625,
+          0.7125,
+          0.0328125,
+          0.0375
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.44765625,
+          0.696875,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.50703125,
+          0.5989583333333334,
+          0.0265625,
+          0.027083333333333334
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.596875,
+          0.5958333333333333,
+          0.028125,
+          0.025
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3046875,
+          0.6572916666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 43,
+    "file_name": "0043.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5375,
+          0.5979166666666667,
+          0.028125,
+          0.025
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.58828125,
+          0.5875,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.37109375,
+          0.6166666666666667,
+          0.0296875,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.34609375,
+          0.5958333333333333,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.40625,
+          0.7916666666666666,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 44,
+    "file_name": "0044.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.603125,
+          0.60625,
+          0.028125,
+          0.025
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.63203125,
+          0.7010416666666667,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.39296875,
+          0.7854166666666667,
+          0.0359375,
+          0.04583333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.49453125,
+          0.578125,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6515625,
+          0.6552083333333333,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 45,
+    "file_name": "0045.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.57578125,
+          0.703125,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4125,
+          0.7760416666666666,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3296875,
+          0.6677083333333333,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.69375,
+          0.7895833333333333,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.490625,
+          0.71875,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 46,
+    "file_name": "0046.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.65859375,
+          0.6291666666666667,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.65703125,
+          0.7583333333333333,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.375,
+          0.6270833333333333,
+          0.028125,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.40703125,
+          0.5645833333333333,
+          0.0265625,
+          0.020833333333333332
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5265625,
+          0.6479166666666667,
+          0.03125,
+          0.029166666666666667
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 47,
+    "file_name": "0047.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.446875,
+          0.7364583333333333,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.51796875,
+          0.6677083333333333,
+          0.0328125,
+          0.03125
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5953125,
+          0.7895833333333333,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.33984375,
+          0.615625,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.47265625,
+          0.6427083333333333,
+          0.0296875,
+          0.03125
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 48,
+    "file_name": "0048.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.59609375,
+          0.5697916666666667,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6921875,
+          0.7979166666666667,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.296875,
+          0.79375,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.42578125,
+          0.584375,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.53828125,
+          0.58125,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 49,
+    "file_name": "0049.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.62265625,
+          0.5739583333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.63828125,
+          0.696875,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.58671875,
+          0.565625,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.259375,
+          0.7833333333333333,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5265625,
+          0.6125,
+          0.028125,
+          0.025
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 50,
+    "file_name": "0050.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.4671875,
+          0.703125,
+          0.034375,
+          0.035416666666666666
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3171875,
+          0.728125,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3578125,
+          0.603125,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.57890625,
+          0.709375,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.36796875,
+          0.5677083333333334,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 51,
+    "file_name": "0051.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.53046875,
+          0.6916666666666667,
+          0.0328125,
+          0.03333333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.43359375,
+          0.5760416666666667,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3765625,
+          0.725,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.625,
+          0.7125,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.584375,
+          0.7427083333333333,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 52,
+    "file_name": "0052.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5609375,
+          0.66875,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.371875,
+          0.6197916666666666,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.34375,
+          0.7614583333333333,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4859375,
+          0.60625,
+          0.028125,
+          0.025
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3453125,
+          0.7010416666666667,
+          0.034375,
+          0.035416666666666666
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 53,
+    "file_name": "0053.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.4984375,
+          0.7770833333333333,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.39921875,
+          0.7520833333333333,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.36875,
+          0.665625,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.52109375,
+          0.56875,
+          0.0265625,
+          0.020833333333333332
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.56328125,
+          0.5958333333333333,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 54,
+    "file_name": "0054.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.64609375,
+          0.7010416666666667,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.66015625,
+          0.6395833333333333,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.55,
+          0.7958333333333333,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.54609375,
+          0.6197916666666666,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.49453125,
+          0.5791666666666667,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 55,
+    "file_name": "0055.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.60703125,
+          0.696875,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6703125,
+          0.7916666666666666,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.56796875,
+          0.7072916666666667,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.36875,
+          0.6614583333333334,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.45078125,
+          0.64375,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 56,
+    "file_name": "0056.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.3234375,
+          0.5885416666666666,
+          0.028125,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.32734375,
+          0.75625,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.45859375,
+          0.6864583333333333,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.440625,
+          0.6041666666666666,
+          0.028125,
+          0.025
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.61875,
+          0.6479166666666667,
+          0.03125,
+          0.029166666666666667
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 57,
+    "file_name": "0057.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.44609375,
+          0.56875,
+          0.0265625,
+          0.020833333333333332
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.48359375,
+          0.5802083333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.42265625,
+          0.63125,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3796875,
+          0.6291666666666667,
+          0.028125,
+          0.029166666666666667
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.334375,
+          0.6572916666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 58,
+    "file_name": "0058.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.33125,
+          0.5822916666666667,
+          0.028125,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5125,
+          0.7302083333333333,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.540625,
+          0.6635416666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4921875,
+          0.7927083333333333,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.684375,
+          0.7854166666666667,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 59,
+    "file_name": "0059.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5609375,
+          0.6770833333333334,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5625,
+          0.6166666666666667,
+          0.028125,
+          0.025
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.44453125,
+          0.6416666666666667,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.45078125,
+          0.6,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.68046875,
+          0.746875,
+          0.0359375,
+          0.03958333333333333
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 60,
+    "file_name": "0060.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.61328125,
+          0.7052083333333333,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.58046875,
+          0.6416666666666667,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.359375,
+          0.7166666666666667,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6515625,
+          0.803125,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.49765625,
+          0.65,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 61,
+    "file_name": "0061.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.375,
+          0.6770833333333334,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.53359375,
+          0.6395833333333333,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.38125,
+          0.6166666666666667,
+          0.028125,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.38359375,
+          0.571875,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.49375,
+          0.665625,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5765625,
+          0.621875,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 62,
+    "file_name": "0062.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.640625,
+          0.671875,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.44609375,
+          0.5677083333333334,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.478125,
+          0.775,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.58359375,
+          0.6229166666666667,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.35390625,
+          0.6677083333333333,
+          0.0328125,
+          0.03125
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.48125,
+          0.59375,
+          0.028125,
+          0.025
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 63,
+    "file_name": "0063.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.55859375,
+          0.625,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.434375,
+          0.8072916666666666,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.41171875,
+          0.7010416666666667,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.35546875,
+          0.6885416666666667,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5421875,
+          0.79375,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.36875,
+          0.6083333333333333,
+          0.028125,
+          0.025
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 64,
+    "file_name": "0064.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.475,
+          0.7885416666666667,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.63671875,
+          0.7166666666666667,
+          0.0328125,
+          0.0375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.40234375,
+          0.6572916666666667,
+          0.0296875,
+          0.03125
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.45234375,
+          0.71875,
+          0.0328125,
+          0.0375
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.54921875,
+          0.64375,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.29453125,
+          0.6833333333333333,
+          0.0328125,
+          0.03333333333333333
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 65,
+    "file_name": "0065.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.359375,
+          0.665625,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3828125,
+          0.734375,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.63359375,
+          0.68125,
+          0.0328125,
+          0.03333333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.528125,
+          0.6760416666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.30859375,
+          0.7604166666666666,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.54609375,
+          0.6395833333333333,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 66,
+    "file_name": "0066.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.38203125,
+          0.76875,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.36640625,
+          0.584375,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.64375,
+          0.6791666666666667,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.38984375,
+          0.646875,
+          0.0296875,
+          0.03125
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.63671875,
+          0.628125,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.540625,
+          0.7854166666666667,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 67,
+    "file_name": "0067.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.32578125,
+          0.6416666666666667,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3328125,
+          0.68125,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4203125,
+          0.6916666666666667,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.56171875,
+          0.6302083333333334,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3796875,
+          0.6072916666666667,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6125,
+          0.6635416666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 68,
+    "file_name": "0068.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.50234375,
+          0.6875,
+          0.0328125,
+          0.03333333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.39296875,
+          0.6614583333333334,
+          0.0296875,
+          0.03125
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.46953125,
+          0.79375,
+          0.0390625,
+          0.04583333333333333
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4625,
+          0.6833333333333333,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.38046875,
+          0.6083333333333333,
+          0.0296875,
+          0.025
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.53359375,
+          0.6364583333333333,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 69,
+    "file_name": "0069.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.47265625,
+          0.6395833333333333,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5796875,
+          0.7822916666666667,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.571875,
+          0.621875,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.61953125,
+          0.578125,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.58828125,
+          0.5979166666666667,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5140625,
+          0.6635416666666667,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 70,
+    "file_name": "0070.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.50234375,
+          0.7677083333333333,
+          0.0359375,
+          0.04375
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.61171875,
+          0.7010416666666667,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5515625,
+          0.74375,
+          0.034375,
+          0.041666666666666664
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.34140625,
+          0.6177083333333333,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.63125,
+          0.5833333333333334,
+          0.028125,
+          0.025
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.61875,
+          0.765625,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 71,
+    "file_name": "0071.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.4796875,
+          0.7697916666666667,
+          0.0375,
+          0.04375
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.32890625,
+          0.64375,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.39609375,
+          0.659375,
+          0.0296875,
+          0.03125
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.51953125,
+          0.5677083333333334,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4875,
+          0.6052083333333333,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.46640625,
+          0.6875,
+          0.0328125,
+          0.03333333333333333
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 72,
+    "file_name": "0072.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5859375,
+          0.6875,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3890625,
+          0.6197916666666666,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.3296875,
+          0.5958333333333333,
+          0.028125,
+          0.025
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.63984375,
+          0.7520833333333333,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.484375,
+          0.7458333333333333,
+          0.034375,
+          0.041666666666666664
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.43046875,
+          0.5739583333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 73,
+    "file_name": "0073.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.31171875,
+          0.684375,
+          0.0328125,
+          0.035416666666666666
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.37421875,
+          0.6479166666666667,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.659375,
+          0.703125,
+          0.034375,
+          0.035416666666666666
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.50859375,
+          0.5927083333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.56171875,
+          0.7354166666666667,
+          0.0359375,
+          0.0375
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.39921875,
+          0.7666666666666667,
+          0.0359375,
+          0.041666666666666664
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 74,
+    "file_name": "0074.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.31015625,
+          0.6197916666666666,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.309375,
+          0.6677083333333333,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.41640625,
+          0.646875,
+          0.0296875,
+          0.03125
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.5515625,
+          0.6854166666666667,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.64140625,
+          0.5739583333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.63046875,
+          0.6458333333333334,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 75,
+    "file_name": "0075.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.58515625,
+          0.571875,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.60859375,
+          0.7697916666666667,
+          0.0359375,
+          0.04375
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.58671875,
+          0.6197916666666666,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.39765625,
+          0.5895833333333333,
+          0.0265625,
+          0.025
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.403125,
+          0.7947916666666667,
+          0.0375,
+          0.04791666666666667
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.33984375,
+          0.7677083333333333,
+          0.0359375,
+          0.04375
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 76,
+    "file_name": "0076.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.534375,
+          0.659375,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.61015625,
+          0.628125,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.50390625,
+          0.63125,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6265625,
+          0.7916666666666666,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.559375,
+          0.6,
+          0.028125,
+          0.025
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4015625,
+          0.66875,
+          0.03125,
+          0.03333333333333333
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 77,
+    "file_name": "0077.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.56484375,
+          0.8052083333333333,
+          0.0390625,
+          0.04791666666666667
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.48984375,
+          0.8072916666666666,
+          0.0390625,
+          0.04791666666666667
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.50546875,
+          0.5635416666666667,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.384375,
+          0.8,
+          0.0375,
+          0.04583333333333333
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6375,
+          0.6614583333333334,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.565625,
+          0.5979166666666667,
+          0.028125,
+          0.025
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 78,
+    "file_name": "0078.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.5609375,
+          0.728125,
+          0.034375,
+          0.03958333333333333
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.4046875,
+          0.615625,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.46953125,
+          0.5802083333333333,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.51796875,
+          0.6395833333333333,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.615625,
+          0.725,
+          0.034375,
+          0.0375
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.409375,
+          0.7458333333333333,
+          0.034375,
+          0.041666666666666664
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 79,
+    "file_name": "0079.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.4671875,
+          0.653125,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.575,
+          0.621875,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.36796875,
+          0.6395833333333333,
+          0.0296875,
+          0.029166666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.325,
+          0.7520833333333333,
+          0.034375,
+          0.041666666666666664
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.64375,
+          0.6177083333333333,
+          0.028125,
+          0.027083333333333334
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.403125,
+          0.5958333333333333,
+          0.028125,
+          0.025
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "image_id": 80,
+    "file_name": "0080.png",
+    "height": 480,
+    "width": 640,
+    "caption": "red sphere. green sphere. blue sphere. yellow sphere. black sphere. pink sphere.",
+    "annotations": [
+      {
+        "bbox": [
+          0.42578125,
+          0.5822916666666667,
+          0.0265625,
+          0.022916666666666665
+        ],
+        "category_name": "red sphere",
+        "token_span": [
+          [
+            0,
+            10
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.359375,
+          0.7177083333333333,
+          0.034375,
+          0.035416666666666666
+        ],
+        "category_name": "green sphere",
+        "token_span": [
+          [
+            12,
+            24
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.53671875,
+          0.8114583333333333,
+          0.0390625,
+          0.04791666666666667
+        ],
+        "category_name": "blue sphere",
+        "token_span": [
+          [
+            26,
+            37
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.540625,
+          0.6614583333333334,
+          0.03125,
+          0.03125
+        ],
+        "category_name": "yellow sphere",
+        "token_span": [
+          [
+            39,
+            52
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.47734375,
+          0.6177083333333333,
+          0.0296875,
+          0.027083333333333334
+        ],
+        "category_name": "black sphere",
+        "token_span": [
+          [
+            54,
+            66
+          ]
+        ]
+      },
+      {
+        "bbox": [
+          0.6296875,
+          0.6104166666666667,
+          0.028125,
+          0.025
+        ],
+        "category_name": "pink sphere",
+        "token_span": [
+          [
+            68,
+            79
+          ]
+        ]
+      }
+    ]
+  }
+]

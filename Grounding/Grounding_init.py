@@ -91,8 +91,8 @@ if __name__ == "__main__":
     CONFIG = "/home/jay/GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py"
     CHECKPOINT = "/home/jay/GroundingDINO/weights/groundingdino_swint_ogc.pth"
 
-    IMAGE = "/home/jay/Language Aware Manipulation/sample_animals.jpg"
-    PROMPT = "lion"
+    IMAGE = "/home/jay/Language Aware Manipulation/Pybullet_test/captured/front.png"
+    PROMPT = "red sphere"
 
     # ----------------------
     model = load_model(CONFIG, CHECKPOINT)
@@ -103,5 +103,5 @@ if __name__ == "__main__":
     for b, p in zip(boxes, phrases):
         print(p, b.tolist())
 
-    visualize(image_pil, boxes, phrases, "outputgr.png")
-    print("Saved: outputgr.png")
+    visualize(image_pil, boxes, phrases, "outputpb.png")
+    print("Saved: outputpb.png")

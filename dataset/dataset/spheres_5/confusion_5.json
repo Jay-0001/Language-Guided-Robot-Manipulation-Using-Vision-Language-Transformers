@@ -1,0 +1,12 @@
+{
+  "('red sphere', 'red sphere')": 88,
+  "('green sphere', 'green sphere')": 72,
+  "('blue sphere', 'blue sphere')": 85,
+  "('yellow sphere', 'yellow sphere')": 91,
+  "('black sphere', 'other')": 72,
+  "('black sphere', 'black sphere')": 28,
+  "('green sphere', 'other')": 28,
+  "('blue sphere', 'other')": 15,
+  "('yellow sphere', 'other')": 9,
+  "('red sphere', 'other')": 12
+}

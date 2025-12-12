@@ -67,29 +67,42 @@ def compute_bounding_boxes(sphere_positions, radius, view, proj, W, H):
     boxes = []
 
     for pos in sphere_positions:
+        # Project center of sphere
         cx, cy, depth = project_point(pos, view, proj, W, H)
 
         if cx is None:
             boxes.append(None)
             continue
 
-        # sphere image radius approx = (focal * r) / depth
-        # focal length derivation from projection matrix
-        pm = np.array(proj).reshape(4,4).T
-        f = pm[0,0]  # projection scale
+        # Sample 4 points on the sphere surface
+        offsets = [
+            [ radius, 0,      0],
+            [-radius, 0,      0],
+            [0,       radius, 0],
+            [0,      -radius, 0]
+        ]
 
-        if depth == 0:
+        projected = []
+        for dx,dy,dz in offsets:
+            px, py, _ = project_point([pos[0]+dx, pos[1]+dy, pos[2]+dz],
+                                      view, proj, W, H)
+            if px is not None:
+                projected.append((px, py))
+
+        if len(projected) < 2:
             boxes.append(None)
             continue
 
-        r_img = abs(f * radius / depth)
+        xs = [p[0] for p in projected]
+        ys = [p[1] for p in projected]
 
-        w = int(2 * r_img)
-        h = int(2 * r_img)
+        w = max(xs) - min(xs)
+        h = max(ys) - min(ys)
 
         boxes.append([int(cx), int(cy), int(w), int(h)])
 
     return boxes
+
 
 
 ###############################################
@@ -157,7 +170,7 @@ def sample_valid_sphere_position(existing, radius):
 ###############################################
 
 def generate_dataset(N_spheres, samples=50, W=640, H=480):
-    folder = f"dataset/spheres_{N_spheres}"
+    folder = f"valdataset/spheres_{N_spheres}"
     os.makedirs(folder, exist_ok=True)
 
     RADIUS = 0.025
@@ -211,7 +224,8 @@ def generate_dataset(N_spheres, samples=50, W=640, H=480):
         np.save(os.path.join(out, "depth.npy"), depth)
 
         json.dump(sphere_positions, open(os.path.join(out, "object_positions.json"), "w"))
-        json.dump(gt_boxes, open(os.path.join(out, " object_bounding_boxes.json"),"w"))
+        #leading space stalled the evaluation script
+        json.dump(gt_boxes, open(os.path.join(out, "object_bounding_boxes.json"),"w"))
         json.dump({"view":view, "proj":proj}, open(os.path.join(out, "camera_matrices.json"),"w"))
 
         print(f"[✓] Sample {idx} complete ({N_spheres} spheres).")
@@ -226,6 +240,6 @@ if __name__ == "__main__":
     p.connect(p.GUI)
 
     for N in [3, 4, 5, 6]:
-        generate_dataset(N_spheres=N, samples=30)
+        generate_dataset(N_spheres=N, samples=20)
 
     p.disconnect()
